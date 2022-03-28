@@ -1,0 +1,344 @@
+[
+  {
+    "groupname": "Oilam",
+    "owner": {
+      "userName": "Shoxruh",
+      "name": "Shox",
+      "number": "990473164",
+      "contacts": [],
+      "status": "ACTIVE",
+      "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+    },
+    "users": [
+      {
+        "userName": "Shoxruh",
+        "name": "Shox",
+        "number": "990473164",
+        "contacts": [],
+        "status": "ACTIVE",
+        "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+      },
+      {
+        "userName": "Shuxrat",
+        "name": "akam",
+        "number": "942953030",
+        "contacts": [],
+        "status": "ACTIVE",
+        "id": "e98d4dc66d9545df9d84df7878890f33"
+      },
+      {
+        "userName": "Dilshod",
+        "name": "dadam",
+        "number": "990820479",
+        "contacts": [],
+        "status": "ACTIVE",
+        "id": "0f1c782abc2641348ea5c36af94c0cef"
+      },
+      {
+        "userName": "Muhabbat",
+        "name": "Ayam",
+        "number": "993307959",
+        "contacts": [],
+        "status": "ACTIVE",
+        "id": "cba69f6d7d3a431db35a4cd9c46e5754"
+      }
+    ],
+    "messageList": [
+      {
+        "sender": {
+          "userName": "Shoxruh",
+          "name": "Shox",
+          "number": "990473164",
+          "contacts": [],
+          "status": "ACTIVE",
+          "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+        },
+        "text": "Salom oilam",
+        "data": "Fri Dec 03 22:47:32 UZT 2021",
+        "calendar": {
+          "year": 2021,
+          "month": 11,
+          "dayOfMonth": 3,
+          "hourOfDay": 22,
+          "minute": 47,
+          "second": 32
+        },
+        "id": "e5e142be8044473da1c9e523cb380bc8"
+      },
+      {
+        "sender": {
+          "userName": "Muhabbat",
+          "name": "Ayam",
+          "number": "993307959",
+          "contacts": [
+            {
+              "userName": "Shoxruh",
+              "name": "Shox",
+              "number": "990473164",
+              "contacts": [],
+              "status": "ACTIVE",
+              "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+            }
+          ],
+          "status": "ACTIVE",
+          "id": "cba69f6d7d3a431db35a4cd9c46e5754"
+        },
+        "text": "Salom oilam2",
+        "data": "Fri Dec 03 22:50:15 UZT 2021",
+        "calendar": {
+          "year": 2021,
+          "month": 11,
+          "dayOfMonth": 3,
+          "hourOfDay": 22,
+          "minute": 50,
+          "second": 15
+        },
+        "id": "4a934a2929674bd0a2308f31eabcb206"
+      }
+    ],
+    "time": 1638553617057,
+    "id": "283953412eaf4e36a63da72e9c9e8e77"
+  },
+  {
+    "groupname": "Oilam2",
+    "owner": {
+      "userName": "Muhabbat",
+      "name": "Ayam",
+      "number": "993307959",
+      "contacts": [
+        {
+          "userName": "Shoxruh",
+          "name": "Shox",
+          "number": "990473164",
+          "contacts": [],
+          "status": "ACTIVE",
+          "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+        }
+      ],
+      "status": "ACTIVE",
+      "id": "cba69f6d7d3a431db35a4cd9c46e5754"
+    },
+    "users": [
+      {
+        "userName": "Muhabbat",
+        "name": "Ayam",
+        "number": "993307959",
+        "contacts": [
+          {
+            "userName": "Shoxruh",
+            "name": "Shox",
+            "number": "990473164",
+            "contacts": [],
+            "status": "ACTIVE",
+            "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+          }
+        ],
+        "status": "ACTIVE",
+        "id": "cba69f6d7d3a431db35a4cd9c46e5754"
+      },
+      {
+        "userName": "Shoxruh",
+        "name": "Shox",
+        "number": "990473164",
+        "contacts": [],
+        "status": "ACTIVE",
+        "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+      }
+    ],
+    "messageList": [
+      {
+        "sender": {
+          "userName": "Muhabbat",
+          "name": "Ayam",
+          "number": "993307959",
+          "contacts": [
+            {
+              "userName": "Shoxruh",
+              "name": "Shox",
+              "number": "990473164",
+              "contacts": [],
+              "status": "ACTIVE",
+              "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+            }
+          ],
+          "status": "ACTIVE",
+          "id": "cba69f6d7d3a431db35a4cd9c46e5754"
+        },
+        "text": "Salom2",
+        "data": "Fri Dec 03 22:50:23 UZT 2021",
+        "calendar": {
+          "year": 2021,
+          "month": 11,
+          "dayOfMonth": 3,
+          "hourOfDay": 22,
+          "minute": 50,
+          "second": 23
+        },
+        "id": "62c4c18a26f7432f8c24aeec6369f521"
+      }
+    ],
+    "time": 1638553796424,
+    "id": "642d9f839d104827984e9d93f040dc00"
+  },
+  {
+    "groupname": "Oilam3",
+    "owner": {
+      "userName": "Dilshod",
+      "name": "dadam",
+      "number": "990820479",
+      "contacts": [
+        {
+          "userName": "Shoxruh",
+          "name": "Shox",
+          "number": "990473164",
+          "contacts": [],
+          "status": "ACTIVE",
+          "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+        }
+      ],
+      "status": "ACTIVE",
+      "id": "0f1c782abc2641348ea5c36af94c0cef"
+    },
+    "users": [
+      {
+        "userName": "Dilshod",
+        "name": "dadam",
+        "number": "990820479",
+        "contacts": [
+          {
+            "userName": "Shoxruh",
+            "name": "Shox",
+            "number": "990473164",
+            "contacts": [],
+            "status": "ACTIVE",
+            "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+          }
+        ],
+        "status": "ACTIVE",
+        "id": "0f1c782abc2641348ea5c36af94c0cef"
+      },
+      {
+        "userName": "Shuxrat",
+        "name": "akam",
+        "number": "942953030",
+        "contacts": [
+          {
+            "userName": "Shoxruh",
+            "name": "Shox",
+            "number": "990473164",
+            "contacts": [],
+            "status": "ACTIVE",
+            "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+          }
+        ],
+        "status": "ACTIVE",
+        "id": "e98d4dc66d9545df9d84df7878890f33"
+      },
+      {
+        "userName": "Shoxruh",
+        "name": "Shox",
+        "number": "990473164",
+        "contacts": [],
+        "status": "ACTIVE",
+        "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+      },
+      {
+        "userName": "Muhabbat",
+        "name": "Ayam",
+        "number": "993307959",
+        "contacts": [
+          {
+            "userName": "Shoxruh",
+            "name": "Shox",
+            "number": "990473164",
+            "contacts": [],
+            "status": "ACTIVE",
+            "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+          }
+        ],
+        "status": "ACTIVE",
+        "id": "cba69f6d7d3a431db35a4cd9c46e5754"
+      }
+    ],
+    "messageList": [
+      {
+        "sender": {
+          "userName": "Dilshod",
+          "name": "dadam",
+          "number": "990820479",
+          "contacts": [
+            {
+              "userName": "Shoxruh",
+              "name": "Shox",
+              "number": "990473164",
+              "contacts": [],
+              "status": "ACTIVE",
+              "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+            }
+          ],
+          "status": "ACTIVE",
+          "id": "0f1c782abc2641348ea5c36af94c0cef"
+        },
+        "text": "Salomey",
+        "data": "Fri Dec 03 23:24:44 UZT 2021",
+        "calendar": {
+          "year": 2021,
+          "month": 11,
+          "dayOfMonth": 3,
+          "hourOfDay": 23,
+          "minute": 24,
+          "second": 44
+        },
+        "id": "5ecf79e2759b47e987e979d6b6cdec34"
+      },
+      {
+        "sender": {
+          "userName": "Shoxruh",
+          "name": "Shox",
+          "number": "990473164",
+          "contacts": [
+            {
+              "userName": "Shuxrat",
+              "name": "akam",
+              "number": "942953030",
+              "contacts": [],
+              "status": "ACTIVE",
+              "id": "e98d4dc66d9545df9d84df7878890f33"
+            },
+            {
+              "userName": "Dilshod",
+              "name": "dadam",
+              "number": "990820479",
+              "contacts": [],
+              "status": "ACTIVE",
+              "id": "0f1c782abc2641348ea5c36af94c0cef"
+            },
+            {
+              "userName": "Muhabbat",
+              "name": "Ayam",
+              "number": "993307959",
+              "contacts": [],
+              "status": "ACTIVE",
+              "id": "cba69f6d7d3a431db35a4cd9c46e5754"
+            }
+          ],
+          "status": "ACTIVE",
+          "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+        },
+        "text": "aloooo",
+        "data": "Fri Dec 03 23:25:47 UZT 2021",
+        "calendar": {
+          "year": 2021,
+          "month": 11,
+          "dayOfMonth": 3,
+          "hourOfDay": 23,
+          "minute": 25,
+          "second": 47
+        },
+        "id": "ce7761ef83d44209818253673fee92fe"
+      }
+    ],
+    "time": 1638555839585,
+    "id": "34d8dd266ed94055adc395d68ed799ea"
+  }
+]

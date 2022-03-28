@@ -1,0 +1,154 @@
+[
+  {
+    "sender": {
+      "userName": "Shoxruh",
+      "name": "Shox",
+      "number": "990473164",
+      "contacts": [],
+      "status": "ACTIVE",
+      "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+    },
+    "receiver": {
+      "userName": "Shuxrat",
+      "name": "akam",
+      "number": "942953030",
+      "contacts": [],
+      "status": "ACTIVE",
+      "id": "e98d4dc66d9545df9d84df7878890f33"
+    },
+    "text": "Salom",
+    "data": "Fri Dec 03 22:45:27 UZT 2021",
+    "calendar": {
+      "year": 2021,
+      "month": 11,
+      "dayOfMonth": 3,
+      "hourOfDay": 22,
+      "minute": 45,
+      "second": 27
+    },
+    "id": "acb24e7117b649e38d4e0a6570a06d9a"
+  },
+  {
+    "sender": {
+      "userName": "Shoxruh",
+      "name": "Shox",
+      "number": "990473164",
+      "contacts": [],
+      "status": "ACTIVE",
+      "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+    },
+    "receiver": {
+      "userName": "Muhabbat",
+      "name": "Ayam",
+      "number": "993307959",
+      "contacts": [],
+      "status": "ACTIVE",
+      "id": "cba69f6d7d3a431db35a4cd9c46e5754"
+    },
+    "text": "Salom aya",
+    "data": "Fri Dec 03 22:46:20 UZT 2021",
+    "calendar": {
+      "year": 2021,
+      "month": 11,
+      "dayOfMonth": 3,
+      "hourOfDay": 22,
+      "minute": 46,
+      "second": 20
+    },
+    "id": "8988ecc39695467ba6d0a769a39914d1"
+  },
+  {
+    "sender": {
+      "userName": "Dilshod",
+      "name": "dadam",
+      "number": "990820479",
+      "contacts": [
+        {
+          "userName": "Shoxruh",
+          "name": "Shox",
+          "number": "990473164",
+          "contacts": [],
+          "status": "ACTIVE",
+          "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+        }
+      ],
+      "status": "ACTIVE",
+      "id": "0f1c782abc2641348ea5c36af94c0cef"
+    },
+    "receiver": {
+      "userName": "Shuxrat",
+      "name": "akam",
+      "number": "942953030",
+      "contacts": [
+        {
+          "userName": "Shoxruh",
+          "name": "Shox",
+          "number": "990473164",
+          "contacts": [],
+          "status": "ACTIVE",
+          "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+        }
+      ],
+      "status": "ACTIVE",
+      "id": "e98d4dc66d9545df9d84df7878890f33"
+    },
+    "text": "salom bala",
+    "data": "Fri Dec 03 23:23:06 UZT 2021",
+    "calendar": {
+      "year": 2021,
+      "month": 11,
+      "dayOfMonth": 3,
+      "hourOfDay": 23,
+      "minute": 23,
+      "second": 6
+    },
+    "id": "d2e7c85bc1b94088bc15d3c35c869e3c"
+  },
+  {
+    "sender": {
+      "userName": "Dilshod",
+      "name": "dadam",
+      "number": "990820479",
+      "contacts": [
+        {
+          "userName": "Shoxruh",
+          "name": "Shox",
+          "number": "990473164",
+          "contacts": [],
+          "status": "ACTIVE",
+          "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+        }
+      ],
+      "status": "ACTIVE",
+      "id": "0f1c782abc2641348ea5c36af94c0cef"
+    },
+    "receiver": {
+      "userName": "Muhabbat",
+      "name": "Ayam",
+      "number": "993307959",
+      "contacts": [
+        {
+          "userName": "Shoxruh",
+          "name": "Shox",
+          "number": "990473164",
+          "contacts": [],
+          "status": "ACTIVE",
+          "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+        }
+      ],
+      "status": "ACTIVE",
+      "id": "cba69f6d7d3a431db35a4cd9c46e5754"
+    },
+    "text": "sasasassasa",
+    "data": "Fri Dec 03 23:23:25 UZT 2021",
+    "calendar": {
+      "year": 2021,
+      "month": 11,
+      "dayOfMonth": 3,
+      "hourOfDay": 23,
+      "minute": 23,
+      "second": 25
+    },
+    "id": "9f050ab4e6d84c4ca1ee29eb3390af48"
+  }
+]

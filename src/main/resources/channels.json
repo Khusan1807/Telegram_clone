@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Alplar",
+    "owner": {
+      "userName": "Shoxruh",
+      "name": "Shox",
+      "number": "990473164",
+      "contacts": [
+        {
+          "userName": "Shuxrat",
+          "name": "akam",
+          "number": "942953030",
+          "contacts": [],
+          "status": "BLOCKED",
+          "id": "e98d4dc66d9545df9d84df7878890f33"
+        },
+        {
+          "userName": "Dilshod",
+          "name": "dadam",
+          "number": "990820479",
+          "contacts": [],
+          "status": "ACTIVE",
+          "id": "0f1c782abc2641348ea5c36af94c0cef"
+        },
+        {
+          "userName": "Muhabbat",
+          "name": "Ayam",
+          "number": "993307959",
+          "contacts": [],
+          "status": "ACTIVE",
+          "id": "cba69f6d7d3a431db35a4cd9c46e5754"
+        }
+      ],
+      "status": "ACTIVE",
+      "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+    },
+    "users": [
+      {
+        "userName": "Dilshod",
+        "name": "dadam",
+        "number": "990820479",
+        "contacts": [
+          {
+            "userName": "Shoxruh",
+            "name": "Shox",
+            "number": "990473164",
+            "contacts": [],
+            "status": "ACTIVE",
+            "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+          },
+          {
+            "userName": "Shuxrat",
+            "name": "akam",
+            "number": "942953030",
+            "contacts": [
+              {
+                "userName": "Shoxruh",
+                "name": "Shox",
+                "number": "990473164",
+                "contacts": [],
+                "status": "ACTIVE",
+                "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+              }
+            ],
+            "status": "ACTIVE",
+            "id": "e98d4dc66d9545df9d84df7878890f33"
+          },
+          {
+            "userName": "Muhabbat",
+            "name": "Ayam",
+            "number": "993307959",
+            "contacts": [
+              {
+                "userName": "Shoxruh",
+                "name": "Shox",
+                "number": "990473164",
+                "contacts": [],
+                "status": "ACTIVE",
+                "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+              }
+            ],
+            "status": "ACTIVE",
+            "id": "cba69f6d7d3a431db35a4cd9c46e5754"
+          }
+        ],
+        "status": "ACTIVE",
+        "id": "0f1c782abc2641348ea5c36af94c0cef"
+      },
+      {
+        "userName": "Muhabbat",
+        "name": "Ayam",
+        "number": "993307959",
+        "contacts": [
+          {
+            "userName": "Shoxruh",
+            "name": "Shox",
+            "number": "990473164",
+            "contacts": [],
+            "status": "ACTIVE",
+            "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+          },
+          {
+            "userName": "Dilshod",
+            "name": "dadam",
+            "number": "990820479",
+            "contacts": [
+              {
+                "userName": "Shoxruh",
+                "name": "Shox",
+                "number": "990473164",
+                "contacts": [],
+                "status": "ACTIVE",
+                "id": "fe0cfd8c5d204cc0b4a368b72f82fdc6"
+              }
+            ],
+            "status": "ACTIVE",
+            "id": "0f1c782abc2641348ea5c36af94c0cef"
+          }
+        ],
+        "status": "ACTIVE",
+        "id": "cba69f6d7d3a431db35a4cd9c46e5754"
+      }
+    ],
+    "status": "ACTIVE",
+    "messageList": [
+      "Salom alplar"
+    ],
+    "time": 1638560049143,
+    "id": "7ec6dabf3c364878ab20668483ad7cc1"
+  }
+]
